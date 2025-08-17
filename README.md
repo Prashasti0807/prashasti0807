@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="image1.png" alt="Prashasti Chaturvedi | Software Developer" height = "400 px" width = "750px" />
+  <img src="image1.png" alt="Prashasti Chaturvedi | Software Developer" height = "300px" width = "900px" />
 </p>
 
 
