@@ -51,9 +51,9 @@ A utility tool that converts files into shareable URLs.
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrashastiChaturvedi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashastiChaturvedi&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=PrashastiChaturvedi&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashasti0807&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashasti0807&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Prashasti0807&theme=radical)  
 
 ---
 
@@ -73,7 +73,7 @@ A utility tool that converts files into shareable URLs.
 
 ## 👀 Profile Views  
 
-![Profile Views](https://komarev.com/ghpvc/?username=PrashastiChaturvedi&color=blue&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=Prashasti0807&color=blue&style=flat-square)  
 
 ---
 
