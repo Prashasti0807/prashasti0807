@@ -1,3 +1,9 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prashasti0807/prashasti0807/main/assets/banner.png" alt="Prashasti Chaturvedi | Software Developer" />
+</p>
+
+
 # 👋 Hi, I'm Prashasti Chaturvedi  
 
 🎓 Final-year **B.Tech CSE student** | 💻 Aspiring **Software Development Engineer (SDE)** | 🚀 Passionate about **Web Development, AI/ML, and Blockchain**  
