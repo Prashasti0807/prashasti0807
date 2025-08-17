@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prashasti0807/prashasti0807/main/assets/banner.png" alt="Prashasti Chaturvedi | Software Developer" />
+  <img src="image1.png" alt="Prashasti Chaturvedi | Software Developer" />
 </p>
 
 
